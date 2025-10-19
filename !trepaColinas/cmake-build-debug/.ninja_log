@@ -1,0 +1,9 @@
+# ninja log v5
+3	228	7553237498328959	CMakeFiles/Trabalho_2_IIA.dir/main.c.obj	b790bb8c069909be
+20	290	7553237498958983	CMakeFiles/Trabalho_2_IIA.dir/utils.c.obj	c446e033bfbbe3fb
+1	180	7553240818732092	build.ninja	bc01aab1d256deaa
+27	263	7553237498668968	CMakeFiles/Trabalho_2_IIA.dir/algorithm.c.obj	c667a6b1394ce033
+16	227	7553241069594008	CMakeFiles/trepaColinas.dir/main.c.obj	fcd31a7e79e59f3e
+23	230	7553241069613969	CMakeFiles/trepaColinas.dir/algorithm.c.obj	aeec992a4dbe6c75
+0	231	7553241069633998	CMakeFiles/trepaColinas.dir/utils.c.obj	e1121b013fe3a19b
+232	440	7553241071654622	trepaColinas.exe	1c2835194daf0f51

@@ -1,0 +1,11 @@
+# ninja log v5
+19	228	7552957481398727	CMakeFiles/algoritmoEvolutivo.dir/utils.c.obj	2fc8f5b3dbd9a124
+29	223	7552957481333596	CMakeFiles/algoritmoEvolutivo.dir/funcao.c.obj	e3f791f26dda615d
+4	217	7552957481288409	CMakeFiles/algoritmoEvolutivo.dir/main.c.obj	168e51e1a93e5d74
+24	238	7552957481498839	CMakeFiles/algoritmoEvolutivo.dir/algorithm.c.obj	2702a73d4a505a25
+238	392	7552957483010023	algoritmoEvolutivo.exe	e5f5d5e818227636
+31	242	7553241572507666	CMakeFiles/algoritmoEvolutivo.dir/funcao.c.obj	4d6cd5c7fe1899c2
+3	247	7553241572557674	CMakeFiles/algoritmoEvolutivo.dir/main.c.obj	ef7a0d429385a58
+18	250	7553241572597758	CMakeFiles/algoritmoEvolutivo.dir/utils.c.obj	d64e8a796b8c4566
+24	255	7553241572657777	CMakeFiles/algoritmoEvolutivo.dir/algorithm.c.obj	c5a3e5c6105493c6
+256	412	7553241574188282	algoritmoEvolutivo.exe	e5f5d5e818227636

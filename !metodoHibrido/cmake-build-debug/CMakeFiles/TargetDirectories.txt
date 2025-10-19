@@ -1,0 +1,3 @@
+C:/Users/Tomás Paiva/Desktop/Trabalho 2 IIA - Final/Finalzão2/!metodoHibrido/cmake-build-debug/CMakeFiles/metodoHibrido.dir
+C:/Users/Tomás Paiva/Desktop/Trabalho 2 IIA - Final/Finalzão2/!metodoHibrido/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tomás Paiva/Desktop/Trabalho 2 IIA - Final/Finalzão2/!metodoHibrido/cmake-build-debug/CMakeFiles/rebuild_cache.dir
