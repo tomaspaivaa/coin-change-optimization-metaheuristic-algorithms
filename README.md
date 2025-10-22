@@ -52,7 +52,7 @@ Each sheet contains the tested parameters for each file, best results found and 
 
 ---
 
-*This work was completed as part of the “Introduction to Artificial Intelligence” course during the 2024/2025 academic year.*
+*This work was completed as part of the “Introduction to Artificial Intelligence” course during the 2024/2025 academic year in a group of 2 members. (Grade: 9.8 out of 10)*
 
 
 
